@@ -5,7 +5,7 @@ void main() {
   runApp(MaterialApp (
     debugShowCheckedModeBanner: false,
     theme: ThemeData(
-      primarySwatch: Colors.teal,
+      primarySwatch: Colors.brown,
       useMaterial3: true,
     ),
     home:login_page(),

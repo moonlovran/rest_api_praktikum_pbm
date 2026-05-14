@@ -35,7 +35,7 @@ class _LoginPageState extends State<login_page> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Masuk Praktikum PBM")),
+      appBar: AppBar(title: Text("Nuansa Buku")),
       body: Padding(
         padding: EdgeInsets.all(20),
         child: Column(
